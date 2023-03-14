@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cstdint": "cpp",
+        "array": "cpp",
+        "xstring": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "string": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp",
+        "stdexcept": "cpp"
+    }
+}

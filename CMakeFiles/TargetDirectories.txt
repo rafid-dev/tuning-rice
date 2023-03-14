@@ -1,0 +1,3 @@
+/e/Projects/texel-tuner-main/texel-tuner-main/src/CMakeFiles/tuner.dir
+/e/Projects/texel-tuner-main/texel-tuner-main/src/CMakeFiles/edit_cache.dir
+/e/Projects/texel-tuner-main/texel-tuner-main/src/CMakeFiles/rebuild_cache.dir
